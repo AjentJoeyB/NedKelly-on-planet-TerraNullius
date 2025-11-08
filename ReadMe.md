@@ -44,7 +44,7 @@ Most levels currently contain:
 - Basic combat and environmental interaction
 
 
-## 🎮 Controls
+## Controls
 
 | Action | Key |
 |--------|-----|
@@ -67,4 +67,5 @@ Most levels currently contain:
 
 Developed by **Joey Barr**  
 Created with **Unity Engine**
+
 
